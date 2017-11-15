@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "1012519743366",
-    "firebase_url": "https://test-f111d.firebaseio.com",
-    "project_id": "test-f111d",
-    "storage_bucket": "test-f111d.appspot.com"
+    "project_number": "894164567112",
+    "firebase_url": "https://maru-1361c.firebaseio.com",
+    "project_id": "maru-1361c",
+    "storage_bucket": "maru-1361c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1012519743366:android:55393339cddc246b",
+        "mobilesdk_app_id": "1:894164567112:android:11db4c84b7b30004",
         "android_client_info": {
-          "package_name": "ir.technopedia.wordpressjsonclient"
+          "package_name": "com.radar.pasuruan"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1012519743366-3anumqhkd58diiht1lcuod4taoufemmo.apps.googleusercontent.com",
+          "client_id": "894164567112-6i8upj2hdj2d7dcm4mggcquff3og89sf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCAqvsbKwtzLYZbigN5ALjseLfyvUqnwKA"
+          "current_key": "AIzaSyAI7FQlVSvabTOsQJxYdBY6EZtvp-wTC4o"
         }
       ],
       "services": {
